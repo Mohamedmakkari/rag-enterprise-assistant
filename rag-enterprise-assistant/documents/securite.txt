@@ -1,0 +1,2 @@
+Securite informatique
+Les mots de passe doivent contenir au moins 12 caracteres et etre changes tous les 90 jours. Tout email suspect doit etre signale a l'equipe securite. Il est interdit de partager ses identifiants avec un collegue.
